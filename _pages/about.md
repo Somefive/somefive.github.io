@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,28 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+My name is Da Yin, also known as Somefive on social websites. I'm a senior engineer at Alibaba Cloud currently, building cloud native infrastures.
+
+KubeVela Maintainer
+======
+I am one of the maintainers of [KubeVela](https://github.com/kubevela/kubevela), a CNCF incubation project. KubeVela is an application delivery project, providing the abstraction layer and orchestration capabilities on top of the Kubernetes control plane. 
+ I am now focusing on multiple related directions, including multi-cluster management, system stability and scalability, performance optimization, automated observability, in addition to the maintainess of the core controller.
+
+I also continuously work on the community management and advocation, such as hosting community meetings, writing posts, managing public computation resources, etc. You can find me on the CNCF slack channel and the various social groups of KubeVela. Besides, I served as a reviewer for the KubeCon EU & NA multiple times.
+
+Alibaba Cloud Engineer
+======
+While mainly focusing on the open source project KubeVela, as an engineer at Alibaba Cloud, I participate in a wide range of cloud native products as well, mainly about landing KubeVela and providing technical solutions for various scenarios, like serverless delivery or Kubernetes-based architecture.
+
+Former Data Mining Researcher
+======
+I was working on data mining and related research fields before joining Alibaba Cloud. As a master student at [Knowledge Engineer Group](https://github.com/THUDM) at Tsinghua University, I was guided by [Jie Tang](http://keg.cs.tsinghua.edu.cn/jietang/) and focused on scientific data mining. I mainly participated in the exploration of large language models on scientific data, including both the pre-training part and the application part. You can check out my publications and read more details.
+
+Other Experiences
+======
+While I was visiting and studying at Carnegie Mellon University, I was guided by [Roger Dannenberg](http://www.cs.cmu.edu/~rbd/) and made some interesting journey on the research of computer music. I also once worked as a search engine and recommendation system engineer at ByteDance, where I made some discovery job for the cold start issue.
+
+<!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
 ======
@@ -47,4 +68,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
