@@ -11,30 +11,27 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science and Technology, Tsinghua University, 2018
+* M.S. in Computer Science, Carnegie Mellon University, 2020
+* M.S. in Computer Science and Technology, Tsinghua University, 2021
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jul 2021 ~ Now: Senior Engineer
+  * Alibaba Cloud
+  * Duties included: Maintaining [KubeVela](https://github.com/kubevela), a CNCF incubation project. Focusing on application delivery, multicluster Kubernetes, automated observability. Landing application delivery in various commercial cloud products.
+  * Department: Team Cloud Native
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Apr 2016 ~ Jun 2021: Research Assistant
+  * KEG at Tsinghua University
+  * Duties included: Doing research on data mining and natural language processing. Developing search engine [AMiner](https://aminer.cn). Working on machine learning algorithms and experiements.
+  * Supervisor: Professor [Jie Tang](http://keg.cs.tsinghua.edu.cn/jietang/)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Kubernetes
+* Golang, C++, Python, NodeJS
+* Data Mining & NLP
 
 Publications
 ======
@@ -47,13 +44,9 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* KubeCon EU 2023 Reviewer
+* KubeCon NA 2022 Reviewer
+* KubeVela Maintainer
